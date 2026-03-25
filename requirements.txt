@@ -1,0 +1,10 @@
+# Core
+groq            # STT (Whisper-large-v3) + LLM (Llama 3) — free at console.groq.com
+pyttsx3         # TTS — offline, no API key needed
+sounddevice     # Microphone capture and audio playback
+numpy           # Audio buffer handling
+python-dotenv   # Load .env file
+
+# Testing
+pytest
+hypothesis
